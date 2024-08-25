@@ -1,0 +1,26 @@
+[
+	{
+		"userName": "s123@gmail.com",
+		"password": "King@1234567890",
+		"productToSelect": "Grayson Crewneck Sweatshirt",
+		"colorToSelect": "Red",
+		"quantityToSelect": "2",
+		"successMessage": "Thank you for your purchase!"
+	},
+	{
+		"userName": "Kshirish123@gmail.com",
+		"password": "King@12345",
+		"productToSelect": "Marco Lightweight Active Hoodie",
+		"colorToSelect": "Green",
+		"quantityToSelect": "2",
+		"successMessage": "Thank you for your purchase!"
+	},
+	
+	{
+		"userName": "Kshirish123@gmail.com",
+		"password": "King@12345",
+		"productToSelect": "Grayson Crewneck Sweatshirt",
+		"colorToSelect": "Red",
+		"quantityToSelect": "2"
+	}
+]

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<listeners>
+		<listener class-name="Luma_Test.testComponents.Luma_Listners" />
+	</listeners>
+
+	<test name="Chek LoginErrorValidationMessage Of Products and Ordered Product">
+		<classes>
+			<class name="Luma_Test.tests.Luma_ErrorValidation_Test" />
+		</classes>
+	</test>
+</suite> 

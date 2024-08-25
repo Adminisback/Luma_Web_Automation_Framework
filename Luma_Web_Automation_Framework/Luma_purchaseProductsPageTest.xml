@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<!-- <groups>
+		<run>
+			<include name="PurchasePage"></include>
+		</run>
+	</groups> -->
+	
+	<listeners>
+		<listener class-name="Luma_Test.testComponents.Luma_Listners" />
+	</listeners>
+	
+	<test thread-count="5" name="Submit Ordered Product">
+		<classes>
+			<class name="Luma_Test.tests.Luma_PurchaseProducts_Test" />
+		</classes>
+	</test> <!-- Test -->
+
+
+
+</suite> <!-- Suite -->

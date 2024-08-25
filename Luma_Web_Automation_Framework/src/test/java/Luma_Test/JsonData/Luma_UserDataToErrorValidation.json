@@ -1,0 +1,14 @@
+[
+	{
+		"userName": "s123@gmail.com",
+		"password": "King@123452367890",
+		"loginErrorMessage": "The account sign-in was or your account is disabled temporarily. Please wait and try again later."
+	},
+	{
+		"userName": "Kshirish123@gmail.com",
+		"password": "King@12345",
+		"productToSelect": "Grayson Crewneck Sweatshirt",
+		"colorToSelect": "Red",
+		"quantityToSelect": "2"
+	}
+]
